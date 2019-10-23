@@ -100,15 +100,15 @@ service-worker: true
 friends: [
     {
         title: "WY",
-        href: "http://zhengwuyang.com"
+        href: "http://vipyouyu.com"
     },{
         title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        href: "http://www.vipyouyu.com"
     },{
         title: "Apple",
-        href: "https://apple.com"
+        href: "https://vipyouyu.com"
     },{
         title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        href: "https://vipyouyu.com/"
     }
 ]
