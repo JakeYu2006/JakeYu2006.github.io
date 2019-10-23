@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: 杰克的博客 | BY Jake
+title: 杰克船长
+SEOTitle: 杰克船长的博客 | BY Jake
 header-img: img/post-bg-desk.jpg
 email: xlyu2006@qq.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Jake, 杰克的博客, jakeyu, 杰克, iOS, Apple, iPhone"
+keyword: "BY, BY Jake, 杰克船长的博客, jakeyu, 杰克, iOS, Apple, iPhone"
 url: "http://jakeyu2006.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/jakeyu2006/jakeyu2006.github.io.git" # you code repository
